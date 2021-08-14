@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-img_dir = "../sample_imgs/"
+img_dir = "../../day-1/sample_imgs/"
 ##
 img_fname = "lenna.png"
 
